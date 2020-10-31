@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="150px alt="Logo Codenation" src="">
+    <img height="150px" alt="" src="">
 </p>
 
 <h1 align="center">
